@@ -1,0 +1,41 @@
+[
+    {
+        "id": 1,
+        "userid": "001",
+        "username": "Scott Albright",
+        "joindate": "20 Jan 2019",
+        "lastseen": "15 mins ago",
+        "status": "Inactive"
+    },
+    {
+        "id": 2,
+        "userid": "002",
+        "username": "Kevin Howard",
+        "joindate": "10 Mar 2019",
+        "lastseen": "Just Now",
+        "status": "Active"
+    },
+    {
+        "id": 3,
+        "userid": "003",
+        "username": "Eric Knight",
+        "joindate": "24 Jun 2019",
+        "lastseen": "1 hr ago",
+        "status": "Inactive"
+    },
+    {
+        "id": 4,
+        "userid": "004",
+        "username": "Irene Perkins",
+        "joindate": "09 Sep 2019",
+        "lastseen": "3 mins ago",
+        "status": "Active"
+    },
+    {
+        "userid": "005",
+        "username": "Carol Andre",
+        "joindate": "10 Oct 2020",
+        "lastseen": "1 day ago",
+        "status": "Inactive"
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "id": 1,
+        "name": "John Lee",
+        "userid": "#0001",
+        "registereddate": "01 Oct 2019",
+        "img": "avatar-16.jpg",
+        "logintime": "01.00 PM",
+        "logouttime": "03.34 PM",
+        "lastlogin": "11.00 PM",
+        "calllogs": "374844676"
+    },
+    {
+        "id": 2,
+        "name": "Joe",
+        "userid": "#0002",
+        "registereddate": "23 Jan 2020",
+        "img": "avatar-23.jpg",
+        "logintime": "10.00 AM",
+        "logouttime": "03.12 PM",
+        "lastlogin": "10.00 AM",
+        "calllogs": "974843676"
+    },
+    {
+        "id": 3,
+        "name": "John Williams",
+        "userid": "#0013",
+        "registereddate": "14 Feb 2020",
+        "img": "avatar-28.jpg",
+        "logintime": "12.03 PM",
+        "logouttime": "11.40 PM",
+        "lastlogin": "10.00 AM",
+        "calllogs": "967665831"
+    },
+    {
+        "id": 4,
+        "name": "Amy Bond",
+        "userid": "#0017",
+        "registereddate": "18 Apr 2020",
+        "img": "avatar-25.jpg",
+        "logintime": "09.10 AM",
+        "logouttime": "05.30 PM",
+        "lastlogin": "06.00 PM",
+        "calllogs": "768812391"
+    },
+    {
+        "id": 5,
+        "name": "Clara Brady",
+        "userid": "#0019",
+        "registereddate": "20 Apr 2020",
+        "img": "avatar-29.jpg",
+        "logintime": "01.00 PM",
+        "logouttime": "09.54 PM",
+        "lastlogin": "08.00 AM",
+        "calllogs": "763498125"
+    },
+    {
+        "id": 6,
+        "name": "Robert Martin",
+        "userid": "#0020",
+        "registereddate": "08 Jun 2020",
+        "img": "avatar-28.jpg",
+        "logintime": "10.00 AM",
+        "logouttime": "07.00 PM",
+        "lastlogin": "10.00 PM",
+        "calllogs": "994573826"
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "name": "Lee",
+        "userid": "#0010",
+        "logintime": "10.00 AM",
+        "img": "avatar-12.jpg",
+        "blockeddate": "07 Jun 2019",
+        "blockedreason": "Donec posuere dictum enim",
+        "blockedtime": "11.00 PM"
+    },
+    {
+        "id": 2,
+        "name": "Joe",
+        "userid": "#0010",
+        "logintime": "09.15 AM",
+        "img": "avatar-19.jpg",
+        "blockeddate": "28 Sep 2019",
+        "blockedreason": "Sed sollicitudin",
+        "blockedtime": "12.40 PM"
+    },
+    {
+        "id": 3,
+        "name": "Mary Wiley",
+        "userid": "#0011",
+        "img": "avatar-06.jpg",
+        "logintime": "04.45 PM",
+        "blockeddate": "17 Nov 2019",
+        "blockedreason": "Lorem ipsum dolor",
+        "blockedtime": "01.40 PM"
+    },
+    {
+        "id": 4,
+        "name": "Eric Knight",
+        "userid": "#0013",
+        "img": "avatar-15.jpg",
+        "logintime": "02.05 PM",
+        "blockeddate": "11 Jan 2020",
+        "blockedreason": "Commodo consequat",
+        "blockedtime": "07.00 PM"
+    }
+]
